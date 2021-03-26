@@ -1,0 +1,1 @@
+Dashboard financeiro exemplo. Ele consegue analisar o crescimento diário e mensal, comparar com o esperado e filtrar por categorias, produtos, dias da semana e traz outros gráficos com informações que mudam de acordo com os mesmos filtros.
